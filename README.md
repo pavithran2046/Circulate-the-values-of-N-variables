@@ -29,7 +29,7 @@ def circulate():
 ```
 
 ## Output:
-![output](/Screenshot%202023-07-25%20144704.png)
+![output](/circulate%20n.png)
 
 ## Result:
 thus the program to circulate the N values is written and verified using python programming
